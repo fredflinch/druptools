@@ -1,0 +1,7 @@
+README.txt
+LICENSE.txt
+web.config
+update.php
+robots.txt
+install.php
+xmlrpc.php

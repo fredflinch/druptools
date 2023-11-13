@@ -1,0 +1,4 @@
+/CHANGELOG.txt,<insert version regex>
+/core/CHANGELOG.txt,<insert version regex> 
+/includes/bootstrap.inc,<insert version regex>
+/core/includes/bootstrap.inc,<insert version regex>
